@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  LoginApp
 //
-//  Created by Любовь Зеленова on 10.10.2022.
+//  Created by Kirill Shchigolev on 10.10.2022.
 //
 
 import UIKit
